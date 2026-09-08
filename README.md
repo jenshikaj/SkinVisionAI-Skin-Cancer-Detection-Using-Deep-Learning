@@ -422,11 +422,10 @@ If you use SkinVision AI, SkinFusionNet, or any part of this repository in your 
 
 ```bibtex
 @software{jenshika_skinvision_ai,
-  author  = {Jeisin, Jenshika},
+  author  = {Jenshika Jeisin},
   title   = {SkinVision AI: AI-Powered Skin-Lesion Analysis and Dermatological Insights Using Deep Learning},
   year    = {2026},
-  url     = {https://github.com/jenshikaj/SkinVisionAI-Skin-Lesion-Detection-Using-Deep-Learning.git},
-  note    = {Accessed: 2026-05-04}
+  url     = {https://github.com/jenshikaj/SkinVisionAI-Skin-Lesion-Detection-Using-Deep-Learning.git}
 }
 ```
 

@@ -14,6 +14,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-backend-009688?logo=fastapi&logoColor=white)
 
 <br/>
+
 ![Firebase](https://img.shields.io/badge/Firebase-auth%20%2B%20data-FFCA28?logo=firebase&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-mobile%20app-02569B?logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-3.4-0175C2?logo=dart&logoColor=white)

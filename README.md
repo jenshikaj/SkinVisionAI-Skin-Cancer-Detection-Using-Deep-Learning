@@ -405,6 +405,8 @@ flutter run                      # backend must already be running
 
 ---
 
+**⭐ If you like this project, please give it a star on GitHub!**
+
 <div align="center">
 <sub>Built for educational dermatology support — not a substitute for professional medical advice.</sub>
 </div>

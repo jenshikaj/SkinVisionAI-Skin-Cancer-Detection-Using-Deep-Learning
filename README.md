@@ -79,10 +79,6 @@ SkinVision AI lets a user photograph a skin lesion, get an AI-generated conditio
 <td align="center" width="16%"><img src="docs/screenshots/dermatology_insights_i.png" width="170"/></td>
 <td align="center" width="16%"><img src="docs/screenshots/dermatology_insights_ii.png" width="170"/></td>
 <td align="center" width="16%"><img src="docs/screenshots/dermatology_insights_iii.png" width="170"/></td>
-</tr>
-</table>
-<br/>
-<table>
 <td align="center" width="16%"><img src="docs/screenshots/dermatology_insights_iv.png" width="170"/></td>
 <td align="center" width="16%"><img src="docs/screenshots/dermatology_insights_v.png" width="170"/></td>
 <td align="center" width="16%"><img src="docs/screenshots/dermatology_insights_vi.png" width="170"/></td>

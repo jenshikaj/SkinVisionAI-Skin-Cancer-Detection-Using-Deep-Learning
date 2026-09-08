@@ -399,9 +399,9 @@ flutter run                      # backend must already be running
 
 | Notebook | What it does |
 |---|---|
-| [`Derm_Augmentation_Module/DermAugment_Skin_Lesion_GAN_Pipeline.ipynb`](backend/Derm_Augmentation_Module) | Base lesion dataset → EDA → custom **DermAugment** augmentation + a **DCGAN** → class-balance → export final dataset. |
-| [`StageGeneration/Derm_Stage_Label_Generation.ipynb`](backend/StageGeneration) | Adds a **Normal Skin** class, extracts image features, assigns clinically meaningful **severity-stage** labels, writes the train/val/test CSVs SkinFusionNet consumes. |
-| [`SkinFusionNet_Model_Building/SkinFusionNet_Model_Development_May2_v3.ipynb`](backend/SkinFusionNet_Model_Building) | Dataset loader → **SkinFusionNet** architecture → class-weighted losses → training loop → evaluation + confusion matrix → single-image / grid / upload inference → export (ONNX + TFLite) → summary dashboard. Produces `skinfusionnet_best.pth`. |
+| [`DermAugment_Skin_Lesion_GAN_Pipeline.ipynb`](backend/Derm_Augmentation_Module) | Base lesion dataset → EDA → custom **DermAugment** augmentation + a **DCGAN** → class-balance → export final dataset. |
+| [`Derm_Stage_Label_Generation.ipynb`](backend/StageGeneration) | Adds a **Normal Skin** class, extracts image features, assigns clinically meaningful **severity-stage** labels, writes the train/val/test CSVs SkinFusionNet consumes. |
+| [`SkinFusionNet_Model_Development_May2_v3.ipynb`](backend/SkinFusionNet_Model_Building) | Dataset loader → **SkinFusionNet** architecture → class-weighted losses → training loop → evaluation + confusion matrix → single-image / grid / upload inference → export (ONNX + TFLite) → summary dashboard. Produces `skinfusionnet_best.pth`. |
 
 ---
 

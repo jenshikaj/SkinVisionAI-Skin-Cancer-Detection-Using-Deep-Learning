@@ -411,10 +411,7 @@ flutter run                      # backend must already be running
 
 ## Author
 
-**Jenshika Jeisin**
-Researcher & Developer — SkinVision AI
-
-[![GitHub](https://img.shields.io/badge/GitHub-jenshikaj-181717?logo=github&logoColor=white)](https://github.com/jenshikaj)
+ SkinVision AI Researcher & Developer - **Jenshika Jeisin** [![GitHub](https://img.shields.io/badge/GitHub-jenshikaj-181717?logo=github&logoColor=white)](https://github.com/jenshikaj)
 
 ---
 

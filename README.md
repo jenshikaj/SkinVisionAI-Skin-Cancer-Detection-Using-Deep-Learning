@@ -334,7 +334,7 @@ users/{uid}
 
 ```bash
 git lfs install
-git clone https://github.com/jenshikaj/SkinVisionAI-Skin-Cancer-Detection-Using-Deep-Learning.git
+git clone https://github.com/jenshikaj/SkinVisionAI-Skin-Lesion-Detection-Using-Deep-Learning.git
 cd SkinVisionAI
 ```
 

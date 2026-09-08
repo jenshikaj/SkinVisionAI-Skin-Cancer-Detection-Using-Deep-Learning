@@ -10,13 +10,11 @@
 ![CNN](https://img.shields.io/badge/CNN-SkinFusionNet-6f42c1)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EfficientNet--B4-EE4C2C?logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-preprocessing-013243?logo=numpy&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o--mini%20%2B%20embeddings-412991?logo=openai&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-RAG-4B8BBE)
-![Firebase](https://img.shields.io/badge/Firebase-auth%20%2B%20data-FFCA28?logo=firebase&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-backend-009688?logo=fastapi&logoColor=white)
 
 <br/>
-
-![FastAPI](https://img.shields.io/badge/FastAPI-backend-009688?logo=fastapi&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-auth%20%2B%20data-FFCA28?logo=firebase&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-mobile%20app-02569B?logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-3.4-0175C2?logo=dart&logoColor=white)
 ![Google](https://img.shields.io/badge/Google%20Sign--In-4285F4?logo=google&logoColor=white)
@@ -80,6 +78,10 @@ SkinVision AI lets a user photograph a skin lesion, get an AI-generated conditio
 <td align="center" width="16%"><img src="docs/screenshots/dermatology_insights_i.png" width="170"/></td>
 <td align="center" width="16%"><img src="docs/screenshots/dermatology_insights_ii.png" width="170"/></td>
 <td align="center" width="16%"><img src="docs/screenshots/dermatology_insights_iii.png" width="170"/></td>
+</tr>
+</table>
+<br/>
+<table>
 <td align="center" width="16%"><img src="docs/screenshots/dermatology_insights_iv.png" width="170"/></td>
 <td align="center" width="16%"><img src="docs/screenshots/dermatology_insights_v.png" width="170"/></td>
 <td align="center" width="16%"><img src="docs/screenshots/dermatology_insights_vi.png" width="170"/></td>
@@ -92,11 +94,11 @@ SkinVision AI lets a user photograph a skin lesion, get an AI-generated conditio
 <br/>
 <table>
 <tr>
-<td align="center" width="20%"><img src="docs/screenshots/generate_report.png" width="200"/><br/><sub>Generate report</sub></td>
-<td align="center" width="20%"><img src="docs/screenshots/report.png" width="200"/><br/><sub>Report preview</sub></td>
-<td align="center" width="20%"><img src="docs/screenshots/share.png" width="200"/><br/><sub>Share sheet</sub></td>
 <td align="center" width="20%"><img src="docs/screenshots/share_report.png" width="200"/><br/><sub>Share report</sub></td>
+<td align="center" width="20%"><img src="docs/screenshots/generate_report.png" width="200"/><br/><sub>Generate report</sub></td>
+<td align="center" width="20%"><img src="docs/screenshots/share.png" width="200"/><br/><sub>Share</sub></td>
 <td align="center" width="20%"><img src="docs/screenshots/report_via_email.png" width="200"/><br/><sub>Emailed report</sub></td>
+<td align="center" width="20%"><img src="docs/screenshots/report.png" width="200"/><br/><sub>Report</sub></td>
 </tr>
 </table>
 </details>

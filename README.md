@@ -49,6 +49,8 @@ SkinVision AI lets a user photograph a skin lesion, get an AI-generated conditio
   - [Firestore data model](#firestore-data-model)
 - [Getting started](#getting-started)
 - [Data & model-training notebooks](#data--model-training-notebooks)
+- [Author](#author)
+- [Citation](#citation)
 
 ---
 

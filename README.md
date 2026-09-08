@@ -429,8 +429,6 @@ If you use SkinVision AI, SkinFusionNet, or any part of this repository in your 
 }
 ```
 
-Plain-text citation:
-
 > Jenshika, J. (2026). *SkinVision AI: AI-Powered Skin-Lesion Analysis and Dermatological Insights Using Deep Learning* [Software]. GitHub. https://github.com/jenshikaj/SkinVisionAI-Skin-Lesion-Detection-Using-Deep-Learning.git
 
 ---

@@ -1,0 +1,70 @@
+# ─────────────────────────────────────────────────────────────
+#  SkinVision AI — root .gitignore
+# ─────────────────────────────────────────────────────────────
+
+# ===== Secrets =====
+.env
+*.env
+!*.env.example
+backend/firebase_service_account.json
+**/serviceAccountKey.json
+**/google-services.json
+**/GoogleService-Info.plist
+**/android/key.properties
+*.keystore
+*.jks
+*.p8
+*.p12
+*.pem
+
+# ===== Python / backend =====
+backend/venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+*.pyc
+
+# ===== Flutter / Dart =====
+skinvision_ai_app/.dart_tool/
+skinvision_ai_app/.flutter-plugins
+skinvision_ai_app/.flutter-plugins-dependencies
+skinvision_ai_app/.packages
+skinvision_ai_app/build/
+skinvision_ai_app/.pub-cache/
+skinvision_ai_app/.pub/
+**/android/.gradle/
+**/android/.kotlin/
+**/android/app/debug/
+**/android/app/profile/
+**/android/app/release/
+**/android/local.properties
+**/ios/Flutter/.last_build_id
+**/ios/Pods/
+**/ios/.symlinks/
+**/Flutter/ephemeral/
+**/linux/flutter/ephemeral/
+**/macos/Flutter/ephemeral/
+**/windows/flutter/ephemeral/
+app.*.symbols
+app.*.map.json
+
+# ===== IDE / editor =====
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== Logs / temp =====
+*.log
+*.tmp

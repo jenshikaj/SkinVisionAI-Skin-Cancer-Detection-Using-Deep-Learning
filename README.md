@@ -403,9 +403,9 @@ flutter run                      # backend must already be running
 | [`Derm_Stage_Label_Generation.ipynb`](backend/StageGeneration) | Adds a **Normal Skin** class, extracts image features, assigns clinically meaningful **severity-stage** labels, writes the train/val/test CSVs SkinFusionNet consumes. |
 | [`SkinFusionNet_Model_Development_May2_v3.ipynb`](backend/SkinFusionNet_Model_Building) | Dataset loader → **SkinFusionNet** architecture → class-weighted losses → training loop → evaluation + confusion matrix → single-image / grid / upload inference → export (ONNX + TFLite) → summary dashboard. Produces `skinfusionnet_best.pth`. |
 
----
-
 **⭐ If you like this project, please give it a star on GitHub!**
+
+---
 
 <div align="center">
 <sub>Built for educational dermatology support — not a substitute for professional medical advice.</sub>

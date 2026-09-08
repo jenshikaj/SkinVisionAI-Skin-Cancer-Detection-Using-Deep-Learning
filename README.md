@@ -407,6 +407,37 @@ flutter run                      # backend must already be running
 
 ---
 
+## Author
+
+**Jenshika Jeisin**
+Researcher & Developer — SkinVision AI
+
+[![GitHub](https://img.shields.io/badge/GitHub-jenshikaj-181717?logo=github&logoColor=white)](https://github.com/jenshikaj)
+
+---
+
+## Citation
+
+If you use SkinVision AI, SkinFusionNet, or any part of this repository in your research, coursework, or derivative projects, please cite it as:
+
+```bibtex
+@software{jenshika_skinvision_ai,
+  author  = {Jeisin, Jenshika},
+  title   = {SkinVision AI: AI-Powered Skin-Lesion Analysis and Dermatological Insights Using Deep Learning},
+  year    = {2026},
+  url     = {https://github.com/jenshikaj/SkinVisionAI-Skin-Lesion-Detection-Using-Deep-Learning.git},
+  note    = {Accessed: 2026-05-04}
+}
+```
+
+Plain-text citation:
+
+> Jenshika, J. (2026). *SkinVision AI: AI-Powered Skin-Lesion Analysis and Dermatological Insights Using Deep Learning* [Software]. GitHub. https://github.com/jenshikaj/SkinVisionAI-Skin-Lesion-Detection-Using-Deep-Learning.git
+
+---
+
 <div align="center">
 <sub>Built for educational dermatology support — not a substitute for professional medical advice.</sub>
+<br/>
+<sub>© 2026 Jenshika Jeisin. Researched and developed by <b>Jenshika Jeisin</b>.</sub>
 </div>
